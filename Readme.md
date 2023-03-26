@@ -1,0 +1,1 @@
+Projeto de contador de palavras. Exercicio para HTML, CSS e JS
